@@ -1,6 +1,6 @@
 #!/bin/bash
 
-	echo "=====SYSTEM INFORMATION===="
+	echo "====SYSTEM INFORMATION===="
 
 	echo "hostname:"
 	hostname
@@ -17,6 +17,6 @@
 	echo "uptime:"
 	uptime
 	
-	echo "kernal version:"
+	echo "kernel version:"
 	uname -r
 
